@@ -1,0 +1,8 @@
+    <section class="main">
+      <div class="box">
+        <h1>Shanti Rahayu</h1>
+        <p>UI/UX Designer and Graphic Design</p>
+        <button class="btn">About</button>
+      </div>
+      <img src="profile.png" alt="" />
+    </section>
